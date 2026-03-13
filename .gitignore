@@ -1,0 +1,19 @@
+.idea/
+__pycache__/
+results*
+images*
+delete*
+# Ignore virtual environment
+.venv/
+
+# Ignore large data files and archives
+*.csv
+*.rar
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore the results folder so you don't upload generated graphs
+results/
+.DS_Store
